@@ -36,5 +36,5 @@ public class Aresta {
         this.numeroAresta = numeroAresta;
         this.vertice = vertice;
     }
-    
+     
 }
